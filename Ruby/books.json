@@ -1,0 +1,86 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "year": "1960"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "year": "1949"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "year": "1851"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "year": "1813"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Tragedy",
+    "year": "1925"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "year": "1951"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": "1937"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": "1997"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": "1954"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "genre": "Biography",
+    "year": "1947"
+  },
+  {
+    "title": "a",
+    "author": "b",
+    "genre": "c",
+    "year": "222"
+  },
+  {
+    "title": "ABC",
+    "author": "Avijit",
+    "genre": "AAA",
+    "year": "2025"
+  },
+  {
+    "title": "BBB",
+    "author": "XYZ",
+    "genre": "Love",
+    "year": "2025"
+  },
+  {
+    "title": "Nobel",
+    "author": "ADA",
+    "genre": "DDD",
+    "year": "2022"
+  }
+]
