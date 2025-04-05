@@ -1,5 +1,5 @@
 # This repo is for Group 6 Residency Project.(Book Catalog System)
-## 📚 Book Cataloging System (Ruby + GTK3)
+## 📚 Book Cataloging System (Ruby + GTK3) Implementation
 
 There are total five files for the ruby implementation. Where,
 - **book.rb** is Defines what a book is, what attributes it holds, and how it can be converted to/from JSON-friendly format.
