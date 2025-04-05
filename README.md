@@ -5,6 +5,25 @@ There are total five files for the ruby implementation. Where,
 - **book_manager.rb** loading and saving data from **books.json** as well as adding, removing and searching attributes.
 - **cli.rb** is the CLI(Command Line Interface) of the program where user can pick a choice from the option.
 - **gui.rb** is the implementation of graphical interface using The **GTK3** GUI App.
+# 📚 Book Cataloging System (Ruby + GTK3)
+
+A GUI-based Book Cataloging System built with **Ruby** and **GTK3**, designed to help users manage a collection of books with features to add, remove, update, and search books by various attributes. The system also supports persistent storage and includes a visually enhanced interface.
+
+---
+
+## ✨ Features
+
+- Add new books with title, author, genre, and year
+- Remove or update existing books
+- Search books by Title, Author, Genre, or Year
+- Show all books
+- Input validation (e.g., numeric year)
+- Data persistence using file storage
+- Scrollable book list display
+- Visual enhancements with labels, icons, and organized layout
+
+---
+
   
 ## C# Implementation
 # 📚 Book Cataloging System
