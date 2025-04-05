@@ -25,8 +25,8 @@ A GUI-based Book Cataloging System built with **Ruby** and **GTK3**, designed to
 ---
 
   
-## C# Implementation
-# 📚 Book Cataloging System
+
+## 📚 Book Cataloging System C# Implementation
 A GUI-based application built with **C# and Avalonia UI** to manage a personal or small library book catalog. It allows users to **add**, **remove**, **search**, and **list** books based on various attributes such as **title**, **author**, **genre**, and **publication year**.
 ---
 ## 🚀 Features
