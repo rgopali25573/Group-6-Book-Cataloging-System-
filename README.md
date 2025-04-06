@@ -11,10 +11,6 @@ There are a total of five files for the ruby implementation. Where,
 A GUI-based Book Cataloging System built with **Ruby** and **GTK3**, designed to help users manage a collection of books with features to add, remove, update, and search books by various attributes. The system also supports persistent storage and includes a visually enhanced interface.
 
 ---
-### How To Run
-- For CLI implementation, run the bash command **ruby cli.rb**. After running the command, the user needs to select an option from the list and can add, remove, or search from it. 
-- For GUI implementation, run the bash command **ruby gui.rb**. After running the code, a GUI window for the book cataloging system will pop up.
----
 
 ### ✨ Features
 
@@ -27,6 +23,10 @@ A GUI-based Book Cataloging System built with **Ruby** and **GTK3**, designed to
 - Scrollable book list display
 - Visual enhancements with labels, icons, and organized layout
 
+---
+### How To Run
+- For CLI implementation, run the bash command **ruby cli.rb**. After running the command, the user needs to select an option from the list and can add, remove, or search from it. 
+- For GUI implementation, run the bash command **ruby gui.rb**. After running the code, a GUI window for the book cataloging system will pop up.
 ---
 
   
@@ -55,11 +55,11 @@ A GUI-based application built with **C# and Avalonia UI** to manage a personal o
 ### 💾 Book Storage
 All book entries are stored in a plain text file (`books.txt`) located within the project directory or application data folder. Each line in the file represents a book in the following format:
 
-# Running C# Avalonia UI Project with JetBrains Rider
+### Running C# Avalonia UI Project with JetBrains Rider
 
 This guide will walk you through setting up and running a C# Avalonia UI project in JetBrains Rider.
 
-## Prerequisites
+#### Prerequisites
 
 Before starting, ensure you have the following installed on your system:
 
@@ -67,7 +67,7 @@ Before starting, ensure you have the following installed on your system:
 - **.NET SDK** - You can download it from [here](https://dotnet.microsoft.com/download/dotnet).
 - **Avalonia** - Avalonia is a cross-platform UI framework for .NET.
 
-## Steps to Run the Project
+#### Steps to Run the Project
 
 **Clone the Repository (If applicable)**
 Clone the project using:
