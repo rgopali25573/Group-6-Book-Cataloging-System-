@@ -54,3 +54,26 @@ A GUI-based application built with **C# and Avalonia UI** to manage a personal o
 ---
 ### 💾 Book Storage
 All book entries are stored in a plain text file (`books.txt`) located within the project directory or application data folder. Each line in the file represents a book in the following format:
+
+# Running C# Avalonia UI Project with JetBrains Rider
+
+This guide will walk you through setting up and running a C# Avalonia UI project in JetBrains Rider.
+
+## Prerequisites
+
+Before starting, ensure you have the following installed on your system:
+
+- **JetBrains Rider** - The IDE used for C# development.
+- **.NET SDK** - You can download it from [here](https://dotnet.microsoft.com/download/dotnet).
+- **Avalonia** - Avalonia is a cross-platform UI framework for .NET.
+
+## Steps to Run the Project
+
+1. **Clone the Repository (If applicable)**
+
+   If you have a remote Avalonia project, clone it using:
+   git clone https://github.com/rgopali25573/Group-6-Book-Cataloging-System-
+   cd your-project-folder
+   open it in JetBrains Rider
+   Click on Run
+
