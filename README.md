@@ -12,8 +12,8 @@ A GUI-based Book Cataloging System built with **Ruby** and **GTK3**, designed to
 
 ---
 ### How To Run
-- For CLI implementation, run the command **ruby cli.rb**. After running the command, the user needs to select an option from the list and can add, remove, or search from it. 
-- For GUI implementation, run the command **ruby gui.rb** After running the code, a GUI window for the book cataloging system will pop up.
+- For CLI implementation, run the bash command **ruby cli.rb**. After running the command, the user needs to select an option from the list and can add, remove, or search from it. 
+- For GUI implementation, run the bash command **ruby gui.rb**. After running the code, a GUI window for the book cataloging system will pop up.
 ---
 
 ### ✨ Features
