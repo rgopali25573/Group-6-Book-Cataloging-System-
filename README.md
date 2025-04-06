@@ -70,7 +70,7 @@ Before starting, ensure you have the following installed on your system:
 ## Steps to Run the Project
 
 **Clone the Repository (If applicable)**
-If you have a remote Avalonia project, clone it using:
+Clone the project using:
 - git clone https://github.com/rgopali25573/Group-6-Book-Cataloging-System-
 - cd your-project-folder
 - open it in JetBrains Rider
