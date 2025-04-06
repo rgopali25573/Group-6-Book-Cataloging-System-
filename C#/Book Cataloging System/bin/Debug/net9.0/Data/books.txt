@@ -1,0 +1,20 @@
+The Great Gatsby, F. Scott Fitzgerald, Fiction,1925
+To Kill a Mockingbird, Harper Lee, Fiction,1960
+Pride and Prejudice, Jane Austen, Romance,1813
+Moby-Dick, Herman Melville, Adventure,1851
+The Catcher in the Rye, J.D. Salinger, Fiction,1951
+Brave New World, Aldous Huxley, Dystopian,1932
+The Lord of the Rings, J.R.R. Tolkien, Fantasy,1954
+The Hobbit, J.R.R. Tolkien, Fantasy,1937
+Crime and Punishment, Fyodor Dostoevsky, Psychological Fiction,1866
+War and Peace, Leo Tolstoy, Historical Fiction,1869
+The Odyssey, Homer, Epic,1700
+The Brothers Karamazov, Fyodor Dostoevsky, Philosophical Fiction,1880
+Wuthering Heights, Emily Brontë, Gothic Fiction,1847
+Frankenstein, Mary Shelley, Gothic Fiction,1818
+The Picture of Dorian Gray, Oscar Wilde, Gothic Fiction,1890
+Dracula, Bram Stoker, Horror,1897
+The Great Divorce, C.S. Lewis, Christian Fiction,1945
+Jane Eyre, Charlotte Brontë, Romance,1847
+The Chronicles of Narnia, C.S. Lewis, Fantasy,1950
+1984, George Orwell, Dystopian,1949

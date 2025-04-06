@@ -1,0 +1,80 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="700"
+        x:Class="Book_Cataloging_System.ui.MainWindow"
+        Title="📚 Book Catalog"
+        Background="#FFF"
+        Height="560"
+        Width="800"
+        Padding="20">
+
+    <DockPanel LastChildFill="True">
+
+        <Grid ColumnDefinitions="2*,4*">
+            <StackPanel Grid.Column="0" Spacing="16">
+                <Border Background="#f4f4f4" BorderBrush="#ccc" BorderThickness="1" CornerRadius="8" Padding="12">
+                    <StackPanel Spacing="10">
+                        <TextBlock Text="Add a Book" FontSize="16" FontWeight="Bold" Margin="0 0 0 10" />
+                        <TextBox Name="TitleTextBox" Watermark="Title" Height="32" />
+                        <TextBox Name="AuthorTextBox" Watermark="Author" Height="32" />
+                        <TextBox Name="GenreTextBox" Watermark="Genre" Height="32" />
+                        <TextBox Name="YearTextBox" Watermark="Publication Year" Height="32" />
+                        <Button
+                            Name="AddBookButton"
+                            Content="➕ Add Book"
+                            Click="AddBookButton_Click"
+                            Width="230"
+                            Height="36"
+                            HorizontalContentAlignment="Center"
+                            VerticalContentAlignment="Center" />
+                    </StackPanel>
+                </Border>
+
+                <Border Background="#f4f4f4" BorderBrush="#ccc" BorderThickness="1" CornerRadius="8" Padding="12">
+                    <StackPanel Spacing="10">
+                        <TextBlock Text="Search or Remove" FontSize="16" FontWeight="Bold" Margin="0 0 0 10" />
+                        <TextBox Name="SearchTextBox" Watermark="Search..." Height="32" />
+                        <Button
+                            Name="SearchButton"
+                            Content="🔍 Search"
+                            Click="SearchButton_Click"
+                            Width="230"
+                            Height="36"
+                            HorizontalContentAlignment="Center"
+                            VerticalContentAlignment="Center" />
+                        <Button
+                            Name="RemoveBookButton"
+                            Content="🗑 Remove Book"
+                            Click="RemoveBookButton_Click"
+                            Width="230" Height="36"
+                            HorizontalContentAlignment="Center"
+                            VerticalContentAlignment="Center" />
+                        <Button
+                            Name="ShowAllBookButton"
+                            Content="🔍 Show All Books"
+                            Click="ShowAllBooksButton_Click"
+                            Width="230" Height="36"
+                            HorizontalContentAlignment="Center"
+                            VerticalContentAlignment="Center" />
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+
+            <Border
+                Grid.Column="1"
+                Background="#f9f9f9"
+                BorderBrush="#ccc"
+                BorderThickness="1"
+                CornerRadius="8"
+                Margin="20 0 0 0"
+                Padding="12">
+                <StackPanel>
+                    <TextBlock Text="📖 Book List" FontSize="16" FontWeight="Bold" Margin="0 0 0 10" />
+                    <ListBox Name="BooksListBox" Height="460" />
+                </StackPanel>
+            </Border>
+        </Grid>
+    </DockPanel>
+</Window>

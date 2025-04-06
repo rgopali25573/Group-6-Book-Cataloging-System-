@@ -1,0 +1,68 @@
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Book Cataloging System.csproj.AssemblyReference.cache
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Avalonia/resources
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Book Cataloging System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Book Cataloging System.AssemblyInfoInputs.cache
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Book Cataloging System.AssemblyInfo.cs
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Book Cataloging System.csproj.CoreCompileInputs.cache
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Book Cataloging System
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Book Cataloging System.deps.json
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Book Cataloging System.runtimeconfig.json
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Book Cataloging System.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Book Cataloging System.pdb
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Base.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Controls.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.DesignerSupport.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Dialogs.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Markup.Xaml.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Markup.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Metal.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.MicroCom.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.OpenGL.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Vulkan.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Controls.ColorPicker.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Controls.DataGrid.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Desktop.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Diagnostics.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Fonts.Inter.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.FreeDesktop.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Native.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Remote.Protocol.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Skia.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Themes.Fluent.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Themes.Simple.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.Win32.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Avalonia.X11.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/DialogHost.Avalonia.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/HarfBuzzSharp.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/MsBox.Avalonia.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/MicroCom.Runtime.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/SkiaSharp.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/Tmds.DBus.Protocol.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/bin/Debug/net9.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Avalonia/Book Cataloging System.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Avalonia/Book Cataloging System.pdb
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/refint/Avalonia/Book Cataloging System.dll
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Book Cat.7CB3E071.Up2Date
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/Book Cataloging System.genruntimeconfig.cache
+/Users/vn587a6/RiderProjects/Book Cataloging System/Book Cataloging System/obj/Debug/net9.0/ref/Book Cataloging System.dll
